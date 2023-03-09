@@ -1,4 +1,4 @@
-# `LLD_jll.jl` (v15.0.7+1)
+# `LLD_jll.jl` (v15.0.7+2)
 
 [![deps](https://juliahub.com/docs/LLD_jll/deps.svg)](https://juliahub.com/ui/Packages/LLD_jll/ZHBMJ?page=2)
 
