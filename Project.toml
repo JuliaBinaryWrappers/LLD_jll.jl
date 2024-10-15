@@ -1,6 +1,6 @@
 name = "LLD_jll"
 uuid = "d55e3150-da41-5e91-b323-ecfd1eec6109"
-version = "17.0.6+6"
+version = "18.1.7+4"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,8 +12,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.4.0"
-julia = "1.11"
+julia = "1.12"
 Libdl = "< 0.0.1, 1"
 TOML = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
-libLLVM_jll = "17.0.6"
+libLLVM_jll = "18.1.7"
