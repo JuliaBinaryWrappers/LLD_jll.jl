@@ -1,632 +1,632 @@
 [[LLD]]
 arch = "aarch64"
-git-tree-sha1 = "7f7f49aed554081c61bb1ba67abb6310e09526fe"
-llvm_version = "18"
+git-tree-sha1 = "c8c54ae7a019a3af170922e77bef3334f79ab283"
+llvm_version = "19"
 os = "macos"
 
     [[LLD.download]]
-    sha256 = "fba88109e1b1f6393920d5f8e3acce79e3e5400667a6e7d12807857b140032cb"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-apple-darwin-llvm_version+18.tar.gz"
+    sha256 = "bab62142ea2fb6625fba5f0e833656a164a9a6ad3aa472e60b19eb24a54b5754"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-apple-darwin-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e9353000472a885b421a53a0edeb802c079528cf"
+git-tree-sha1 = "7ced3b7e53424928c1234788e1cf4f55c642396e"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "6ca19e16eee4b373a936d19097951e8188963c466035928ae09c41384c0b1bf9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "24467d48597c64d3b7738703f1ad9c3045ad6969ee537e6103345a0e2d72b989"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-gnu-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "302bfda6d6c4f6a076b563aada575ed91c5bc1d2"
+git-tree-sha1 = "03f981ba925fdc01b44bbd8d0a7a9e3ab2114992"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "0b704eb36eafb4b785974ed2616db859891753886d252eeb51db58f7cf4b1582"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "fd9f4ca143a7dfa6a8d3a7bdc03d4b3f63ae887eeef2bab010776805e81e3cc0"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-gnu-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "251449d2abb223aebb057d10e22780e3a7cd8e0f"
+git-tree-sha1 = "ee23e8694dbad94b1021a4949b4e08258f1f9e20"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "80d8be4bbd7cc56e3a0b5eda7186a450ea1dc5d8ccc1a48d716694961ad63778"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-musl-cxx03-llvm_version+18.tar.gz"
+    sha256 = "f592ece7c12520ed4bac5e1b040f6ec9dda84f9c02218ba4a135f0ee486f8e55"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-musl-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a7bf138df858a37248d773b8f1fd266ae96c1d1"
+git-tree-sha1 = "bb35ee0c39d384f2bada263cae98acf23867aa94"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "8a9b0582b76d28fa01ad47b4faffb35f5b08fe5e394f21682097adba39f8dc77"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    sha256 = "911a6cb8083e56d1d161aba5a70b74616d4308acabb4c9acf11c779be835c065"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-musl-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "aarch64"
-git-tree-sha1 = "c7f9547a09e9fd559d917c4a6cf0e796658f909a"
-llvm_version = "18"
+git-tree-sha1 = "1ae778968d2df410e43f1ac962e3d57f44c003a0"
+llvm_version = "19"
 os = "freebsd"
 
     [[LLD.download]]
-    sha256 = "9226e1e983ce64e9f427ec348769f3ce44d4fea1cf06fbd586ac8d8a53536f03"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
+    sha256 = "c1a00c0864102513007aec8a1926fb259c1892b546ad48234d2e41fec190ada1"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-unknown-freebsd-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eb2b94c9451c02b772f363f4f18a712cad3a8150"
+git-tree-sha1 = "56230bf3b325c3d030b8eeb09803787a8fa71c53"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "bf3deb9b37ba9de44d575e4240053296c2166309171b59c114e933ebe129a6a5"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "384a758a4f81fced030e0df0b08e38d955c53f40635835eea24cef2b4b7f644f"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-gnueabihf-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "935b1cd8dc488df4c343361221e3a11df4acd8a4"
+git-tree-sha1 = "261183cf9891b106860de686960122367169fcc6"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "e6e438ae2db411963b079d2f9f677214aa70ddf2d2c6fde3b076c2e180e901e7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "865a00cc5d9fab261f86b5fdde69bc4163028ba172ecc83d0ed333369e9df5f2"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-gnueabihf-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9123647b484f2cccb3da94d2e34aa8f6b064e457"
+git-tree-sha1 = "f04db8302496dd2ee7c6ff1fa44528439bd309a0"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "64be38ed7dce53663b47697baca765bb55caf19b424eb6716d86aa393e4c2129"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "8d1c92cf3dd1e2eae098f76ddbd051724999e4e9294d757ad8b258fe08305580"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-musleabihf-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c19a08c5ca5bf257d2680d77038611bd31e93763"
+git-tree-sha1 = "27e8ea22ffcc9ddc9d970387e924bf7ee71a20bd"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "7dab716666516352a6a97ade5ba26a2528f07ba4ce7d3b01d9af41d547d31419"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "f8f71b460c361e082e1af6533b25c35bf6938f54003885b81fdf3c0fd091b43c"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-musleabihf-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de3ba2256d3315269422c3c62c4cc5b6ca8b8ba8"
+git-tree-sha1 = "d5f65a95aac6aa83c305a88c90ccb4378cca8a2d"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "c202f2d180d051c55934e098647050137b7195e448f7b503d88faff202312ae8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "5ac22a5819ff66e2c0b12c2c55c8ed90003da93c0093621baa53e6ed8e384f2a"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-gnueabihf-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f0d865fbaa1556eba9d86dfd1d9d8ba7f6d81e0a"
+git-tree-sha1 = "ace1dc9224f5ff8c68192ce4b1af94c807c3fcbb"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "a1810c57a937a835e18d50390f235316b26607ba1ed9fa5fb3288eaed0aa429c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "3f568d5488415ae362cef7b440a7205e7bc28b4cdfaf561ca437bf9408f01344"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-gnueabihf-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8d2a510ac1eae074fa949c80d4a2f5afdf029bce"
+git-tree-sha1 = "234d560925ec0f9eefd02840bfa26b8ec931d76e"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "152ab7a1b627aedee67ff5f7cd189e02cb98484feb860acf6e6cb6044e948831"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
+    sha256 = "2c037de1326d9eb703a8979f43c382e266f86ce8a8a3764f50ae9034f75d7ebb"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-musleabihf-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c1d76734a84b3387e118e990d18dc70335d750f"
+git-tree-sha1 = "e9662098106f207bcfccd15e9d0d830fb6573248"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "0f638d433a6d135aaf41688633c9c124c62e655b4ad0e0c57ae9d63d8cea545c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    sha256 = "4e4b77312670656205652b571e5f6ff5970a1f5d6f06355b56d2dcb8435283cf"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-musleabihf-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "26e934391958e2bc7bf5ee4e893efc85736921d4"
+git-tree-sha1 = "66737b27f931e8ce8c87b1cf9b7bc257c667f13f"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "b3fd24ec80b25241d28fdccdcd69698b96fbea7c32f9a93571fe0bca18923821"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "c727402d7d7ecc0abe4934616b5438c75935df2de72e4a5d8e263fb78215ba79"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-linux-gnu-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d56d679fcaaf5267d72c6d2f47ba26114653cc2e"
+git-tree-sha1 = "9b57877965e5dbb8378fb627558e833731265051"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "baf9d6c778aa3e620d4ddfdffc47348475a01607ad429cc20cf4af6f4f0382dc"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "641655f4bd54ce7277d637ac94211eac1ca5f47418328b9df8700ca9821e6d6f"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-linux-gnu-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "46d55df942f7a0828f9bfb249526aeb5008fa255"
-llvm_version = "18"
+git-tree-sha1 = "3224ee100b561f2fc43a72258b4105891c973bda"
+llvm_version = "19"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "33c0c7957e48980f44633ae3b9d1ee6d72356cf9dad53b5d6472541a78222578"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-w64-mingw32-cxx03-llvm_version+18.tar.gz"
+    sha256 = "e04166f4c0b43a7e9a7ba37fb116360673a599fe706087f2708b2de8072bd357"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-w64-mingw32-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c3ef6d7b4fd539485441694278a38b438fb25caa"
-llvm_version = "18"
+git-tree-sha1 = "c5b5131f6ec3ed6e36ce55dff6aede2f7674c997"
+llvm_version = "19"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "f69cfb22ac2348d235d142e8b5f10c5334f41f0fd7970f20717fbcd9239f0d11"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "b11d7e348c18ed103484b2884c771ebab37128378e03cee68870568bf5f66bfe"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-w64-mingw32-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d8b68b09232aa1e3142c8152befe8d2906a39e94"
+git-tree-sha1 = "c5fe9a147017ef4c58025436fc46ed38602fee95"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "88f20e5719b474ca35915a2221d8e087b722fb761171f84467b6527ef6b0b36a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.powerpc64le-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "767f39141651f9386b2409c95c0a7f6ee5eaee949b248489705d9eba5defae72"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.powerpc64le-linux-gnu-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30171c05522651c4fb8094cb83b049613bc70aeb"
+git-tree-sha1 = "ff7f293ca145837f4443446a31989b7c62e3c1c1"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "7149571aaa65d3246c532d6dc0806e586bbcfb43e0aae5e4d1412bf106064089"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "e18c17d0a65b7a8585bd5d8b3b271ad59060da4d25a1ceb6532515b1bfac69bf"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.powerpc64le-linux-gnu-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
-git-tree-sha1 = "58dbb491a01aba56ddd35a6fd9ba63925011b830"
-llvm_version = "18"
+git-tree-sha1 = "b932dfd04e7682efe784fb45fae50236a9f5e189"
+llvm_version = "19"
 os = "macos"
 
     [[LLD.download]]
-    sha256 = "416d7b258540c0ef0dd798750bd6022058c90d493e40fe26e32edb833dd4196d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-apple-darwin-llvm_version+18.tar.gz"
+    sha256 = "01337b237f3f40bd380e48722b629b0815ddb730c41bc9ff0dec52165c73d59b"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-apple-darwin-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "000d6e2544104a413eb91f60c112b5320acc46df"
+git-tree-sha1 = "d00b566c61f2ad65d6476441ab9f3ed478c84d67"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "8ce2a1a21ed06f0728f5b3944220bbf7720d56f4c8447fa81ec9ecd3eff7e3fc"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    sha256 = "b50bc1c802a071ee47dc2f3e824dee2f847658e53a8746b335d61412fc47ab09"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-gnu-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8ae798b59788ea2d5500bdf7562a3b4565e402ea"
+git-tree-sha1 = "b4d435dd7593464c70d86505ec18bfc3c0e45a1a"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "3bd40ce0e06a4cdf0cabe9de5546dccbeaaa36636a48764c3eebfff469a6a595"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    sha256 = "e12187c3f32a3cdc12bad850df9dbfce91749081d096c5de9ae444d64f086834"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-gnu-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8ae798b59788ea2d5500bdf7562a3b4565e402ea"
+git-tree-sha1 = "b4d435dd7593464c70d86505ec18bfc3c0e45a1a"
 libc = "glibc"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 sanitize = "memory"
 
     [[LLD.download]]
-    sha256 = "3bd40ce0e06a4cdf0cabe9de5546dccbeaaa36636a48764c3eebfff469a6a595"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.tar.gz"
+    sha256 = "e12187c3f32a3cdc12bad850df9dbfce91749081d096c5de9ae444d64f086834"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5dbd2fa51f3d60769dfcc7d1e2bbbf6bb0722a5d"
+git-tree-sha1 = "85312c1c99c76a41feba723d6c41eec2ba374d87"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "4a27eff5fc3f0f7654f55f073c87ca6867b652dbb533807a058cf1e60bdb4c5c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-musl-cxx03-llvm_version+18.tar.gz"
+    sha256 = "593e3be37c562c9ef7e426480adb9811f994a032cc65c13f9d9be41c51cbeab2"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-musl-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f0b512bc98683675dd30b3b89cc9cb0fea3f197f"
+git-tree-sha1 = "a8575c255a5be493d0e3df69988e11c29b464d19"
 libc = "musl"
-llvm_version = "18"
+llvm_version = "19"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "70eb44dc3508fb7112d70e2fa0de9fb6b797268f474ddee0302a0efb166b0abd"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    sha256 = "3663a4a809b268160cc7f987cc07778b444c7ecb1da6b28f0d566b7bdd63bc3e"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-musl-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
-git-tree-sha1 = "f18bc20bbea68f857072616e75d4a179cd48aefa"
-llvm_version = "18"
+git-tree-sha1 = "adab4423d247253c318b8a553f940b4d63fff17d"
+llvm_version = "19"
 os = "freebsd"
 
     [[LLD.download]]
-    sha256 = "9b2a41205659f7bedc12eaed759459f7811f56edcee86d31c60c51e3bab74590"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
+    sha256 = "e80e016045c22ffea6bca8262db3371b7a78040c60d38aba5436306c02ed72cc"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-unknown-freebsd-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f92663347af075a74c300162b1d528a6c5b95efd"
-llvm_version = "18"
+git-tree-sha1 = "1f1ddf4748faa94aeea64882777efa0daec29f58"
+llvm_version = "19"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "bd732c44df27169218e43ee2f3a746ed0cc88f28ca401876231388a2aad9839e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-w64-mingw32-cxx03-llvm_version+18.tar.gz"
+    sha256 = "bc880f1952051876675f66f412b9018dbdc3f4010864f6cc800b2452271a8672"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-w64-mingw32-cxx03-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a0bb7f5a782a0ff226e1c95ef7ccb5510b22f7b"
-llvm_version = "18"
+git-tree-sha1 = "ded23a97fb2a52fa7a691b11afd01051c6986fef"
+llvm_version = "19"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "c280a2ad84f06a064f57f5a5d06154543e7b1d8e0059c5df9ce4b07948795033"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "484f950c7a42519d6bee28f0243cd8a748cc448b621cdee78a73321e9a965ed4"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-w64-mingw32-cxx11-llvm_version+19.tar.gz"
 [[LLD]]
 arch = "aarch64"
-git-tree-sha1 = "12a90826a765395e0e739362acf7fbd5abffd014"
-llvm_version = "18.asserts"
+git-tree-sha1 = "023d1b51a808c90ce5627f9e5989756ab5304297"
+llvm_version = "19.asserts"
 os = "macos"
 
     [[LLD.download]]
-    sha256 = "911a533cdeb95be4f7dacca4f2b9fe429b03acb2f371814469a93eb729969560"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    sha256 = "26db99ae8327cc0864b351276c98335a1d6453d4a6022b67aa6301adc7bf5e5c"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-apple-darwin-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e25d9a3075178333f261034e028d7fc6a4ca4d6d"
+git-tree-sha1 = "9da639a43a25f7096f7d305654ca708f07fed94d"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "07598a87d886130bd508f5ebc8544a08790903a3b0694daca1649ceb6dc428ba"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "3d32337784b2d3df9dbd470379740b62a03da58ac1a7cbcb638706c24f8a2c6c"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-gnu-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "385abb09f5f5624195394d0a9f3bf14902e4e327"
+git-tree-sha1 = "a3f64a58e0a6e2846102280134688633d22c4179"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "6cf8d56286da3f17e4fead19a9f7f5bee9e638c90c920c4a525ec8eab60819f8"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "ded13473f03916465cb4430aea3cd1d606eb1e3008e31240c8d839688d5e8f32"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-gnu-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aae00e98906b6b39170abcf37e3bad350e6da23d"
+git-tree-sha1 = "21de47f4fbf9e5b57b0a2baa2bde35000681ba25"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "e13c19f3cec0654dfbe3704df09c5e508167d694184d845b6a294705f210aa64"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "98c7b472e683d2f4c04da36e207870ad7aff6ec025ff2ac9d45f69ea2e2f1e43"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-musl-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60cf8dd277a57d3da4a3ec753a4ab28d297f3f2e"
+git-tree-sha1 = "3f5a7a8b311a84296eea6957d8592fc35e36526a"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "2dd7ac104365f95ff9a2f6decb636ea43b1c8b44d27c37a2581a2fc681fab1b6"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "9cf2699a2ac6187c9fcee3e5784f1af83420dc1921fd6011724adc04b338ef89"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-linux-musl-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
-git-tree-sha1 = "95f85d8c358b177f3a43e30e807e83c7af9805ba"
-llvm_version = "18.asserts"
+git-tree-sha1 = "6ed48bf829d6f0884de956326257fb59b40c6813"
+llvm_version = "19.asserts"
 os = "freebsd"
 
     [[LLD.download]]
-    sha256 = "f269588b35b0404153bbdf8330e2fa8e05f1eae98cb939ed70f2562694001220"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    sha256 = "527846543a7dae2562c7cae9f66ca26667c5aeb3e0c5128bbeb7ea682183172d"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.aarch64-unknown-freebsd-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3005d10294580ae7ded3ee5a0fd28c1f1e2b8a05"
+git-tree-sha1 = "c88ffa68d41dac16c24e8a23997828b74e237e38"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "9da85da5c16e2fe1403967f855d38e34ce4e2ef7e4dd6cea8084793c0d7c8272"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "aec5aa38e2d254c98a13742194f44b406e1e5d74c1af37eadbf487e13203f091"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-gnueabihf-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f5ec965a6ce1735c9653e5e07be6576023016174"
+git-tree-sha1 = "f73401d4811e113636136b9074696ce819244bcb"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "ae8280a365ada88e4f2c074e94ba376f5e443dae44f801f73228b77d74c9f0ab"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "1061e00e3802eb2ad7e61e729186b2c4360f381eb706ae7246334194a14bf901"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-gnueabihf-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6474fb50842a089dbca8eef22896841b4a44f343"
+git-tree-sha1 = "5c4f8e5a3668e331b5eee602001c48f58f5588ff"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "59fa5e9f252d5fc7cfba73327d3498af1d7415e1ad5825bc19d9a2f017ac74c0"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "fda13424f5fe57b5a38779bc1be9adf8bb2627c1cf5a6e2316680e04f9443498"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-musleabihf-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b657713b6b5573a777dfc6855534aa1e44a936ae"
+git-tree-sha1 = "b9b06b281d32a8045c07e9abe75b511fae61239d"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "0ea6513ffd4a84022ea2dba405e2ad572dea274124218965d6538a956e74420e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "d399016a376f076bdd9222034085cce66b92e947e2f2f6d1f197802ac882e217"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv6l-linux-musleabihf-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d63218d721ac6eee5b37ca75a848a06afb882f3"
+git-tree-sha1 = "4d7a335ee39b8628ea6fa860265a671ddf7eebf6"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "8ce0c225975aa3a3b235cd4edc9e821de4a51e879bc54d7bfc967634ba3d04fe"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "0ac36658aa1269af187b53341d9e78e694daa4b410af46635ef8092d860e5be8"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-gnueabihf-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70bc121c017c1d73af5da5b8ba66bc3495e91434"
+git-tree-sha1 = "8b849a7d302c85b3d20698d3a25e746c173f7382"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "1b6233a09ae753d49263c7ee19bbc34b08fe8d28873f006af3afb03dbd5bd8d7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "7010abe52af0579be47429ece99dc37ef99238cf49fb8d79226dd73fa35b783b"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-gnueabihf-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4cb087b269d2c3c5084da42738af1b5e8d2696e7"
+git-tree-sha1 = "d4b854ce9fad34cf97c8ef3923ae29601fa82720"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "1e36a3a8fc493975fff91e50921befd56efdda6d695b363302d2b9319f3f7b55"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "a31e2f70a189d1b30c49ceb69243d6a8129243d1e82def9e0dae42b2c8e24933"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-musleabihf-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7d001448d718b241f2d02bbb3db7400d47217d6f"
+git-tree-sha1 = "9a1f889478d00eee9f231e5e0f6410766de604e6"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "7211d211fcae88621a63245d0aae9f7e5375571529af73d274be5220a0a57c49"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "ceec7a1ea2bae28794a67b9fe09b2ba21bdfda452a68bf2d971fa3d11cc158b1"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.armv7l-linux-musleabihf-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f8ae8d6b56ed89d2c3ab1ea8ce205da3569dbedf"
+git-tree-sha1 = "63079144d9b9ab2a2de5ecbf28653dcc7545bfc7"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "620ffd16a73a602bc38a4aa7c3e893fab8bb424ad77af0754745e883b4cbfc11"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "f55d5fe6cf1c84dc72feffeaac4f7f82c90feddbb09b3ae7e91fc3b946891ab7"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-linux-gnu-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "407a26dec5c545a788cccd2d41c9ebf85ab8a6f0"
+git-tree-sha1 = "e254701cf07004237d70119fbc61a918dcba0e71"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "1460c410aa01573bc53c55f100d94a6328c18a6ab723644092323dffca6ee938"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "6a82bb8912af0af32998e72418d949ead0e5c1f372b0790b62fa6a3adbaad4a9"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-linux-gnu-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fe80de9edc4e74968cc902a26866ac7bba8482aa"
-llvm_version = "18.asserts"
+git-tree-sha1 = "c360bd24caf91a23590c0620d7c197f53009235b"
+llvm_version = "19.asserts"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "821681e39f627f531165908d35641b314236f6c18199600ccbb62e9c48f82f90"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "efd6f10cc42335b07b212611ff8db29493bdb0a41887a1c811d90da7992dff3d"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-w64-mingw32-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73d878a90f61f3462414b7192ee7b8e19cefc5d3"
-llvm_version = "18.asserts"
+git-tree-sha1 = "7f6b2f2c06dbce1020d07bb9f3a533787f194af1"
+llvm_version = "19.asserts"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "618377fedd440b1ee09bbd66d5aaa098c01f6866abe4cfc0406f632aba6b17ea"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "6c9fb81ea6e5aab907e468e0b40ab3cb18ce0e1d0134a54ec0505831e7df0c74"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.i686-w64-mingw32-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e32d54b9b9b4fde6e7d5937d67ba527a39bd77f7"
+git-tree-sha1 = "dc462d46fa08c6b1311b472fa72e700a63b09f45"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "2e0941a02bc61d5ce57618bb2c75a7ec6e6fdf086ad74eea8709ac728a6625ed"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.powerpc64le-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "98e45ba6c1adb0537010738210eb024517a047a21cde0e7ec5037310ded6e69a"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.powerpc64le-linux-gnu-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01bb7492b90ccc9abec42215f4aaea899e2bb07e"
+git-tree-sha1 = "57d60b991467b1362d0cf6726ad488c5389b6635"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "b6e102fde5c3d8f0041e25148aba510cb73151c9ef57cff246192487b9f51ea1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "c7ac7b3187ed9cdb919b143af771520678c3ea50274a2a4e5c4782bb273078bd"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.powerpc64le-linux-gnu-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
-git-tree-sha1 = "0e05407090731d6bd581734d5f8a22c0fc01d21b"
-llvm_version = "18.asserts"
+git-tree-sha1 = "9f22333c0093b07aaac37300c33b84cab4b691a1"
+llvm_version = "19.asserts"
 os = "macos"
 
     [[LLD.download]]
-    sha256 = "4020c4c705beb752e3644a65612b11aaba0491ab5d2a2027361a22dfa0b360ec"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    sha256 = "c9218f45743b9454905932b8b5ac9db463d4d65665d0fd246f02efb0098ee1e2"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-apple-darwin-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dcc3a58f68a19f5e824d15a809c9598307d6a659"
+git-tree-sha1 = "7cae09dc5003bc9fe1e86d53b0832294ff91b365"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "92b00eeca144cdf9577ffe3b057ed81abd7400ea8f2fe73daadb8388efec4a06"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "7d67cd77e77cddcd9d91c6da89923ab3af3877248b0f3d91690760903b4ff87c"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-gnu-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffee6b4449c07014ed4af63b1187c3476a0e3b1a"
+git-tree-sha1 = "d5a2090e0bdac872cf046cbeb6763db72cd1f940"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "d59fcf8fdffe03ff6747a622e5313e2c4a7fdec5ac45b498d86559fcc4ef73b2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "f56ea61da6cc17da356c0b953e4cdb487452810f38c1ca5d92218fe9aa1382dc"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-gnu-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffee6b4449c07014ed4af63b1187c3476a0e3b1a"
+git-tree-sha1 = "d5a2090e0bdac872cf046cbeb6763db72cd1f940"
 libc = "glibc"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 sanitize = "memory"
 
     [[LLD.download]]
-    sha256 = "d59fcf8fdffe03ff6747a622e5313e2c4a7fdec5ac45b498d86559fcc4ef73b2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+18.asserts.tar.gz"
+    sha256 = "f56ea61da6cc17da356c0b953e4cdb487452810f38c1ca5d92218fe9aa1382dc"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "001efa1d100fba36deac1d6d645f3c2fc75bfa03"
+git-tree-sha1 = "1d7f6f5b1859c4260753212b63f7831bc6be1e42"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "a157241f1ed93a4c649bcf00421ed5af4ffc5ec2b2b229c798a4ebb49a66cd1e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "5bed88ac98dfee1565c3733d198c9c2287e22947d5d893bfbf8fa7530b54b6ff"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-musl-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e3a6635acb637cbf6bee596d2f4ca0a743ea230"
+git-tree-sha1 = "3dd7010f5ed369492d3964a971d116c1a665ad83"
 libc = "musl"
-llvm_version = "18.asserts"
+llvm_version = "19.asserts"
 os = "linux"
 
     [[LLD.download]]
-    sha256 = "e6aaf3749beb919b75e3ddaf8bf0bb3b5e66053d45589dab8b1eff1400a4f7a1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "89d6a851886de38620fca0da2d00c7780f6eb1a5accac69f4430828e73579aec"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-linux-musl-cxx11-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
-git-tree-sha1 = "985a1d3516b889f2e39590f5f57cec9d016efa2c"
-llvm_version = "18.asserts"
+git-tree-sha1 = "b7f459302987ba995ead17a23468a29550c2aef7"
+llvm_version = "19.asserts"
 os = "freebsd"
 
     [[LLD.download]]
-    sha256 = "3f5339ad29f996ef5b77247061da603485c8c482c45a07cd8ef64dc2acb6573b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    sha256 = "8ab36f8008e981ee27b73b103c68b4ad6cf73832c09591bff7f631f2f1635f90"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-unknown-freebsd-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "93cf3b335b528661b61e003f5a966bf97c03784d"
-llvm_version = "18.asserts"
+git-tree-sha1 = "162f99e66e441f8f30021a85d2321321c6253f66"
+llvm_version = "19.asserts"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "7a5f3562185e536753eda36b698c5d6908e0d52cf29626bcd51a690f8a7a8b0d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "7f01dcd2c93553cdb6b50b609fffdd1ab92ae2e9177c943355070e9f8be78292"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-w64-mingw32-cxx03-llvm_version+19.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8def40e6db5d001f0053e907d18083a5703d8a92"
-llvm_version = "18.asserts"
+git-tree-sha1 = "6270a836f70f1ba7bae1e18e25c1257f4fefa030"
+llvm_version = "19.asserts"
 os = "windows"
 
     [[LLD.download]]
-    sha256 = "aef9592cbb7c1d0a6d8602942f353f8de132e99448a21650b684c7fd4fc9742d"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v18.1.7+4/LLD.v18.1.7.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "54a4b7c11a03743286d713d3a7c9c5095c34938bb7b7c866d3a7c322b7961800"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v19.1.1+1/LLD.v19.1.1.x86_64-w64-mingw32-cxx11-llvm_version+19.asserts.tar.gz"
