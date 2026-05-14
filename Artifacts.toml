@@ -6,7 +6,7 @@ os = "macos"
 
     [[LLD.download]]
     sha256 = "b36f50cfebf5739f814a07158d301dba650d1c08d8523905ceb8b4b0992edbe9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-apple-darwin-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-apple-darwin-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "19446873b1b65678fe63d416dc4f6c594a7a3da16a0cd3a2e94d039a7f2e4ecd"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -28,7 +28,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "b0c2c8150f5c5be30a4c46bca5770269d808fec4a01c2f6b5525fddb6059ffc2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-linux-musl-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "aarch64"
 git-tree-sha1 = "f800103ff495f40da58ede26f9ed58516a8f82a0"
@@ -37,7 +37,7 @@ os = "freebsd"
 
     [[LLD.download]]
     sha256 = "a63c7fb03688fb7705068856f9b836059fd65c189f004f2a1ad34e62656dd5b1"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-unknown-freebsd-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -49,7 +49,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "f55f45fabf208f8986d0f1bfa30cf49bf48fe8c09f00771645a7e4c3f29aa250"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv6l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "8dd686f92067d6904fc2741deb9e7b29b26cf4c121ed81e6dd421e13c424d432"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv6l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -73,7 +73,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "062f974536b9d692eb63ff2c6c4d8339d6ac50b0ac0aeebf15ea473b4c7ef275"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv7l-linux-gnueabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -85,7 +85,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "a06d2cb8149d8d517198c06be977231deb93501e923c938a2273ac82e0044ed6"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv7l-linux-musleabihf-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -96,7 +96,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "f0d7f5137a7c9313156f19b799d9b88db7b10c112ed7da3480964053a3bd6ab7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.i686-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -106,7 +106,7 @@ os = "windows"
 
     [[LLD.download]]
     sha256 = "1f35f4bfd80507ac58088497bd7c6d9596f0c46e19c428cb52874861453cb19a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.i686-w64-mingw32-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -117,7 +117,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "df0982ea15e200da4e620e7fc5344d23b1ae22a3836c17bc0549a8d8b02a5e7f"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.powerpc64le-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -128,7 +128,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "a18e121bf462f3f2fa344adb100ec158df375dd019de1880be0d61fa9cb24a34"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.riscv64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "x86_64"
 git-tree-sha1 = "b797d2593e6b563e128e5216e01258848b418879"
@@ -137,7 +137,7 @@ os = "macos"
 
     [[LLD.download]]
     sha256 = "6d9eccaadf058a67ac350c9b170cf52289a5ac8912c71da220df7fbd03048c63"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-apple-darwin-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-apple-darwin-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -148,7 +148,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "07ce06c6fcbe9e40d3e4f0c5a4124f328ab01bd1a66ca592f74d99099549dacf"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-linux-gnu-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -160,7 +160,7 @@ sanitize = "memory"
 
     [[LLD.download]]
     sha256 = "07ce06c6fcbe9e40d3e4f0c5a4124f328ab01bd1a66ca592f74d99099549dacf"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -171,7 +171,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "4efef088777da4e5cf96133410a56833d2bdbb5502955954d9382c2919172a9b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-linux-musl-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "x86_64"
 git-tree-sha1 = "c96e6556d31883514ccc3712f4c53931490eb313"
@@ -180,7 +180,7 @@ os = "freebsd"
 
     [[LLD.download]]
     sha256 = "90df18f1772842ff9f35a0c3ae17f0343fe84b4988fca3129c2ab5ca4f424414"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-unknown-freebsd-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -190,7 +190,7 @@ os = "windows"
 
     [[LLD.download]]
     sha256 = "da029ede6a3f1130f306a479ebdbc84be25418c09fcc2491b07a88db5eb1ed28"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-w64-mingw32-cxx11-llvm_version+21.tar.gz"
 [[LLD]]
 arch = "aarch64"
 git-tree-sha1 = "e019fd183e6740762f48b59ab0cf8baff7b44137"
@@ -199,7 +199,7 @@ os = "macos"
 
     [[LLD.download]]
     sha256 = "39321c54b34cd83fd8a1f79b83d922dfb8a79ac046566582b5a175cc27b7fcd9"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-apple-darwin-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -210,7 +210,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "07221643f989cdb618a949263fe5c7059436f43cd5603fb7b5bae29432fb118a"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -221,7 +221,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "f0b57050c452c8a81706efc8893ae4c6cdb89e45cd0dda336eaf9b3d0e76c26e"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "aarch64"
 git-tree-sha1 = "bf687e01f33bfdd5d8a9b9e4dc1f61171e0ed0a0"
@@ -230,7 +230,7 @@ os = "freebsd"
 
     [[LLD.download]]
     sha256 = "3879a768d16b0f1d6ffd55ffde8589fc783f0df4816fe45f37a9c93f5d1fe6da"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.aarch64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -242,7 +242,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "d2320945bee98bcda8719e6893f9baade0bed769087c49339b9914125ed61948"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv6l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -254,7 +254,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "af2d81e49d682c9abc4993591dd462d47c13475567c949c48202c4173ba7d674"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv6l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -266,7 +266,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "020b7b21dfca136cc2316d95b6b2381c48849ad91f28200dfe02468776065b2c"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv7l-linux-gnueabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -278,7 +278,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "0ffd439a8bd1b84d798b50f75cf6494778b05f59df53d2365a7f542a48dd81cf"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.armv7l-linux-musleabihf-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -289,7 +289,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "550da0339710f820dd28716bd9fb6ded14830b3766b669cfaa460ac15cb198b2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.i686-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -299,7 +299,7 @@ os = "windows"
 
     [[LLD.download]]
     sha256 = "e07d6a289d4a53151a2e99959b7ae7daa88f7f6e4f77789c4f7b5c51adfb5254"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.i686-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -310,7 +310,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "615531371b573b5536da5d15e576972eca512867101eed98136ed61dae42ad8b"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.powerpc64le-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -321,7 +321,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "856dc8ee52e613c71738710cb8007681fd752c12ae293dad4137357f52a20f07"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.riscv64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 git-tree-sha1 = "f3d5121f5f95439dddf49d35dff4c3ecf4c4b1d8"
@@ -330,7 +330,7 @@ os = "macos"
 
     [[LLD.download]]
     sha256 = "0f7c94820789c4dcecdafe06bdeaaddffa0dbcb87d7fad19c6e958e96db84ac7"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-apple-darwin-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -341,7 +341,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "c4df3de6fba820cefed5112a1f8716a59610113e7dda11364f204792cbc9d5d4"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-linux-gnu-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -353,7 +353,7 @@ sanitize = "memory"
 
     [[LLD.download]]
     sha256 = "c4df3de6fba820cefed5112a1f8716a59610113e7dda11364f204792cbc9d5d4"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-linux-gnu-cxx11-sanitize+memory-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -364,7 +364,7 @@ os = "linux"
 
     [[LLD.download]]
     sha256 = "73ade9820a56324687971f48d77977ecbdbd0350ae5dd438d1ee7f740b42d687"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-linux-musl-cxx11-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 git-tree-sha1 = "f8aadec612e8f089f2fe868a197581b423f7ca8d"
@@ -373,7 +373,7 @@ os = "freebsd"
 
     [[LLD.download]]
     sha256 = "c35c994e5445f499e57285b5d8529fedd0c22f7cf5e89087093aa65b01150da2"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-unknown-freebsd-llvm_version+21.asserts.tar.gz"
 [[LLD]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -383,4 +383,4 @@ os = "windows"
 
     [[LLD.download]]
     sha256 = "30145ad0257ed41310b2cd7e0420e97df4746eed9a845a636718c8e327a04d45"
-    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+0/LLD.v21.1.8.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLD_jll.jl/releases/download/LLD-v21.1.8+1/LLD.v21.1.8.x86_64-w64-mingw32-cxx11-llvm_version+21.asserts.tar.gz"
